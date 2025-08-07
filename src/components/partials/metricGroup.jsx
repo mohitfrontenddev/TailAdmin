@@ -4,7 +4,7 @@ const dashboardStats = [
   {
     id: 1,
     title: "Customers",
-    value: 3782,
+    value: "3,782",
     change: 11.01,
     icon: (
       <svg
@@ -27,7 +27,7 @@ const dashboardStats = [
   {
     id: 2,
     title: "Orders",
-    value: 5360,
+    value: "5,360",
     change: 9.05,
     icon: (
       <svg

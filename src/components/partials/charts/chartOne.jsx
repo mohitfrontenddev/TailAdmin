@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
 import Chart from "react-apexcharts";
-
 const ChartOne = () => {
     const [openDropDown, setOpenDropDown] = useState(false);
     const dropdownRef = useRef(null);
